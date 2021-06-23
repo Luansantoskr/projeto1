@@ -1,0 +1,24 @@
+Quais são os cadastros?
+
+Cliente, produtos, fornecedores
+
+Cliente:
+
+Nome, telefone, endereço, CPF
+
+Produto:
+
+Nome, preço, marca, cor, data de entrada, distribuidor, unidade
+
+Fornecedor:
+
+Nome, CNPJ, endereço, telefone
+
+Quais telas?
+
+Index, cadastro de cliente, cadastro de produto, cadastro de fornecedor, tela de login, 
+exibir clientes, exibir produtos, PDV, contas a receber, contas a pagar, relatórios.
+
+Inicial vai ser o login?
+
+Profile = níveis. Admin, cliente.
