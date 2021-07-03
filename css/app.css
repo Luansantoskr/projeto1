@@ -21,6 +21,9 @@ input[type=text], [type=password]{
   }
   
   input[type=submit]:hover {
+    background-color: #0c702a;
+  }
+  input[type=reset]:hover {
     background-color: #ca1515;
   }
 
@@ -28,24 +31,5 @@ input[type=text], [type=password]{
       text-align: center;
   }
 
-  #login{
-    position: absolute;
-    top: 0px;
-    width: 88%;   
-    padding: 18px 6% 60px 6%;
-    margin: 0 0 35px 0;
-    background: #f7f7f7;
-    border: 1px solid rgba(147, 184, 189,0.8);
-     
-    -webkit-box-shadow: 5px;
-    border-radius: 5px;
-     
-    -webkit-animation-duration: 0.5s;
-    -webkit-animation-timing-function: ease;
-    -webkit-animation-fill-mode: both;
-   
-    animation-duration: 0.5s;
-    animation-timing-function: ease;
-    animation-fill-mode: both;
-  }
+  
   
